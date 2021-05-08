@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Learn Vue",
+      "day": "May",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Learn AWS",
+      "day": "June",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Learn GCP",
+      "day": "July",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Refresh Django",
+      "day": "May",
+      "reminder": false
+    },
+    {
+      "text": "Be a Student",
+      "day": "May to December",
+      "reminder": false,
+      "id": "Zia8goC"
+    }
+  ]
+}

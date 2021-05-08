@@ -10,6 +10,13 @@ npm install
 npm run serve
 ```
 
+### To access the data from Backend APIs
+configur the backend server in package.json file with the port number and spin the backend server using below command
+
+```
+npm run backend
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
